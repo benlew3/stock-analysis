@@ -92,6 +92,6 @@ Running this code allows me to assign the tickerVolume, tickerStartingPrices, an
 
 #### 2017 results
 2017 run time speed
-![2017 run time](https://github.com/benlew3/stock-analysis/blob/main/images/2017%20speed.PNG)
+![2017 run time](https://github.com/benlew3/stock-analysis/blob/main/images/2017%20speed.PNG)<br>
 2017 stock results
 ![2017 results](https://github.com/benlew3/stock-analysis/blob/main/images/2017%20results.PNG)
