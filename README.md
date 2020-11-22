@@ -187,7 +187,7 @@ Running this code allows me to assign the tickerVolume, tickerStartingPrices, an
 
 2018 results
 
-!{2018 results](https://github.com/benlew3/stock-analysis/blob/main/images/2018%20results.PNG)
+![2018 results](https://github.com/benlew3/stock-analysis/blob/main/images/2018%20results.PNG)
 
 ## Summary
 
