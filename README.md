@@ -177,13 +177,13 @@ Running this code allows me to assign the tickerVolume, tickerStartingPrices, an
 
 2017 stock results
 
-![2017 results](https://github.com/benlew3/stock-analysis/blob/main/images/2017%20results.PNG) vs ![2018 refracted](https://github.com/benlew3/stock-analysis/blob/main/images/2018%20run%20time.PNG)
+![2017 results](https://github.com/benlew3/stock-analysis/blob/main/images/2017%20results.PNG)
 
 ####2018 results
 
 2017 run time speeds
 
-![2018 run times](https://github.com/benlew3/stock-analysis/blob/main/images/2018%20speed.PNG)
+![2018 run times](https://github.com/benlew3/stock-analysis/blob/main/images/2018%20speed.PNG) vs ![2018 refracted](https://github.com/benlew3/stock-analysis/blob/main/images/2018%20run%20time.PNG)
 
 2018 results
 
